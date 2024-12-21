@@ -1,0 +1,10 @@
+.last1{
+font-weight: 300;
+margin-left: 0.5%;
+transition: color 1s;
+
+}
+.last1:hover{
+    text-decoration: underline;
+    color: red;
+}
